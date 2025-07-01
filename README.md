@@ -1,7 +1,6 @@
 # CSE 475 - Machine Learning Projects
 
-Welcome to my **CSE 475: Machine Learning** repository!  
-This repo contains practical implementations of Machine Learning algorithms — from traditional models (like Logistic Regression, KNN) to more advanced Deep Learning architectures — applied to real-world datasets throughout the course.
+Welcome to **CSE 475: Machine Learning** repository. This repo contains practical implementations of Machine Learning algorithms — from traditional models (like Logistic Regression, KNN) to more advanced Deep Learning architectures — applied to real-world datasets throughout the course.
 
 ---
 
